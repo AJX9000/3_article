@@ -73,6 +73,21 @@
     /*top: 120px;*/
 }
 
+.textHeadline {
+    position: relative;
+    font-family: "Roboto Mono", "Lucida Sans Typewriter", "Courier New", monospace;
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: left;
+    line-height: 24px;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+
+    color: #dedede;
+}
+
 .text {
     position: relative;
     font-family: "Roboto Mono", "Lucida Sans Typewriter", "Courier New", monospace;
